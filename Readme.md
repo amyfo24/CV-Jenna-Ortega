@@ -19,7 +19,7 @@ Correo Gabrielle: gab_elle@gmail.com
 
 - Actuación independiente
 
-<img src="img/jenna.webp" width= "200">
+![](jenna.jpg)
 
 ## Carrera
 
